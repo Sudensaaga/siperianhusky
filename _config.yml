@@ -1,0 +1,94 @@
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+#
+# If you need help with YAML syntax, here are some quick references for you:
+# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
+# https://learnxinyminutes.com/docs/yaml/
+#
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: Kuuhaukun kennel
+email: jaanas@kolumbus.fi
+tagline: Old line siperianhuskyt vuodesta 1979
+description: >- # this means to ignore newlines until "baseurl:"
+  Old line siperianhuskyt. 40 vuoden ajan tinkimätöntä kasvatustyötä
+  alkuperäisen tyypin ja linjojen säilyttämiseksi.
+baseurl: ""
+url: "https://siperianhusky.com"
+
+github_username:  sudensaaga
+author: Jaana Sudensaaga
+
+social:
+  name: Kuuhaukun Kennel
+  links:
+    - https://www.instagram.com/kuuhaukun/
+
+# Build settings
+theme:
+plugins:
+- jekyll-sitemap
+- jekyll-seo-tag
+
+permalink: /:title
+
+collections:
+  posts:
+    output: true
+    permalink: /:title/
+
+defaults:
+- scope:
+    path: "" # an empty string here means all files in the project
+  values:
+    lang: fi
+
+nav:
+  en:
+    language: "English"
+    menus:
+  #    - "en/introduction"
+  #    - "en/breed-info"
+  #    - "en/photos"
+  #    - "en/misc"
+  fi:
+    language: "Finnish"
+    menus:
+    - "index"
+    - "esittely"
+    - "rotuinfo"
+    - "kuvat"
+    - "muuta"
+
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+exclude:
+- ohje-instructions/
+- .sass-cache/
+- .idea/
+- .jekyll-cache/
+- .DS_Store
+- artikkelit/.DS_Store
+- gemfiles/
+- Gemfile
+- Gemfile.lock
+- node_modules/
+- vendor/bundle/
+- vendor/cache/
+- vendor/gems/
+- vendor/ruby/

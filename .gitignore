@@ -1,0 +1,11 @@
+_site
+.idea/*
+.sass-cache
+.idea
+.jekyll-cache
+.jekyll-metadata
+images/.DS_Store
+.DS_Store
+*/.DS_Store
+vendor
+.idea/kuuhaukku.iml
