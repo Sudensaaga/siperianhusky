@@ -1,6 +1,6 @@
 ---
 
-permalink: index
+permalink: /
 title: Siperianhuskyn pentuja 2021
 description: "Kuuhaukun kennel on säilyttänyt old line siperianhuskyn linjan puhtaana 40 vuotta eikä siinä ole kilpa-tai showlinjaa"
 
