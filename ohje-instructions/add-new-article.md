@@ -48,19 +48,14 @@ The layouts are defined in [_layouts](../_layouts) directory and we currently ha
 | `menusivu-kuvapalkkiartikkelilla` | Two-column article with images, just like `artikkeli-kuvapalkilla`, but it appears as an upper level subpage with highlights section.</br>![image-20210104101252251](ohje-images/layout-menusivu.png) |
 | `menusivu-vain-linkit` | Upper level subpage with highlights section and links gallery. |
 
+### Set the variables that the layout needs
 
-
-
+This section is still under work. For now, it's just best to find an existing article with the same layout and look at how the variables are filled there.
 
 
 | Variable              | Purpose                                                      |
 | --------------------- | ------------------------------------------------------------ |
-| `permalink:`          | The URL of article, omit the domain name. For example, if the final URL is **siperianhusky.com/siperianhuskyn-historia**, the permalink would be **siperianhuskyn-historia**. Do not use white spaces or special characters like ä or ö here. |
-| `title:`              | ![google results](ohje-images/google-results.png)The main title (H1) for the article. Also visible in Google seach results and in the browser tab leaf |
-| `description:`        | Search engine description for the page. Use relevant keywords and limit to 150 characters. This text shows under the headline in Google search results |
 | `menu:`               |                                                              |
-| `image:`              |                                                              |
-| `layout:`             |                                                              |
 | `linkin-pikkukuva:`   |                                                              |
 | `linkin-teksti:`      |                                                              |
 | `kolme-esiin-title:`  |                                                              |
@@ -72,7 +67,13 @@ The layouts are defined in [_layouts](../_layouts) directory and we currently ha
 
 ### Linking article to old content
 
+For the article to be found by people who browse the site, it must be linked to existing content somehow.
+
+There are 2 ways to do that, by adding article into a menu and by linking to it from another article.
+
 ## Write the article content
+
+The article content is written under the control section. It looks like there's no formatting, but actually there is. The content is written in markdown language. 
 
  [Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/)
 
