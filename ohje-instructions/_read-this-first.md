@@ -14,7 +14,7 @@ Whenever you save (that means commit + push) a file to this repository, **it goe
 
 When you first save new content, leave the `menu:` empty. Use the address in the `permalink:` to see how the live page looks like. Then you're ready to put it into a menu or link it to the existing pages.
 
-After the last save, run this [Dead link checker](https://www.deadlinkchecker.com). Put https://siperianhusky.com to the text field and select to check "whole website".
+After the last save, run this [Dead link checker](https://www.deadlinkchecker.com). Put https://www.siperianhusky.com to the text field and select to check "whole website".
 
 ## Edit without fear
 

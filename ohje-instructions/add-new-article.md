@@ -26,7 +26,7 @@ Let's fill it out using the instructions below.
 
 | Variable       | Purpose                                                      |
 | -------------- | ------------------------------------------------------------ |
-| `permalink:`   | The URL of article, omit the domain name. For example, if the final URL is **siperianhusky.com/siperianhuskyn-historia**, the permalink would be **siperianhuskyn-historia**. Do not use white spaces or special characters like ä or ö here |
+| `permalink:`   | The URL of article, omit the domain name. For example, if the final URL is **www.siperianhusky.com/siperianhuskyn-historia**, the permalink would be **siperianhuskyn-historia**. Do not use white spaces or special characters like ä or ö here |
 | `title:`       | The main title (H1) for the article. Also visible in Google seach results and in the browser tab leaf |
 | `description:` | Search engine description for the page. Use relevant keywords and limit to 150 characters. This text shows under the headline in Google search results, like shown below |
 |                | ![google results](ohje-images/google-results.png)            |
