@@ -3,7 +3,7 @@ permalink: siberianhusky-links
 title: Links
 description: Links to other siberian husky sites
 
-menu: muuta
+menu: misc
 layout: artikkeli
 
 linkin-pikkukuva: linkki-linkkisivulle.png
