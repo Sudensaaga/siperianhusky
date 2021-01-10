@@ -38,13 +38,13 @@ kolme-esiin:
 
 ![Siperianhusky pennut 2020 pentueesta](images/siperianhusky-pennut-2020.png)
 
-*Kuvassa lokakuun 2020 pentuja*
+*Kuvassa lokakuun 2020 old line pentuja*
 
 Vuoden ensimmäinen old line® pentue on jo syntynyt! Kuuhaukun kennel on saattanut maailmaan jo yli 100 old line® pentuetta ja viimeisin syntyi 1.1.2021. 
 
-Poikkeuksellisesti osa näistä pennuista on vielä vapaana. 
+Poikkeuksellisesti yksi näistä pennuista on vielä vapaana. 
 
-Myös myöhemmistä vuoden 2021 pentueista on nyt mahdollista varata pentuja.  [Ota yhteyttä!](yhteystiedot)
+Myös myöhemmistä vuoden 2021 old line huskypentueista on nyt mahdollista varata pentuja, tule tutustumaan aikuisiin koiriin Kuuhaukun kenneliin, niin kuulet lisää.  [Ota yhteyttä!](yhteystiedot)
 
 <a href="http://siperianhusky.net/" target="_blank" style="color:rgba(0,0,0,0);">siperianhusky</a>
 
