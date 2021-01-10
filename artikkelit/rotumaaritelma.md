@@ -1,6 +1,6 @@
 ---
 permalink: rotumaaritelma
-title: Rotumääritelmä
+title: Siperianhuskyn rotumääritelmä
 description: Siperianhuskyn ja Tsukotkan rekikoiran rotumääritelmät
 
 menu: rotuinfo
