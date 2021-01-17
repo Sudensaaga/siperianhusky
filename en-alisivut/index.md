@@ -1,5 +1,6 @@
 ---
 lang: en
+title: Kuuhaukun Old Line Siberian Huskies
 permalink: en/index
 description: Kuuhaukun Kennel® has retained the Old Line® breed for 40 years without mixing with competition or show line huskies
 

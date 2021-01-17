@@ -1,5 +1,6 @@
 ---
 lang: en
+title: Old line® Siberian Husky
 permalink: en/breed-info
 description: Breed information for siberian husky
 
