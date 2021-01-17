@@ -20,7 +20,9 @@ Eräs tunnetuimmista rodun muistomerkeistä on vuodesta 1925 New Yorkin Keskuspu
 
 ## Elokuvat ja TV
 
-**Elokuva- ja TV-hahmoja** ovat mm. elokuvan Eight below (Seikkailu Etelänavalla) Max, Maya, Truman, Old Jack, Dewey ja Shorty (ilmestyi v. 2006). Ko. elokuvaan oli päärooliin ehdolla Troika´s Carbon Copy, suomalaisittain Hauva. Hauvan ostivat Hollywoodiin eläinkouluttajat, ja siitä piti tulla pääosan esittäjä, mutta Hauva oli jo 6-vuotias ja ollut vain kotikennelissään Teksasissa. Sitä pelottivat kokemattomuuttaan valtavat turbiinit, jotka tekivät lumimyrskyn kaltaista säätä, ja kouluttajat palauttivat sen kotikenneliin. Sieltä se löysi tiensä Kuuhaukun kenneliin loppuelämän eläkekodiksi. Hauva oli oppinut jo kuitenkin muutamia asioita ollessaan Hollywoodissa ja oli hauska huomata, miten se esimerkiksi veti köydestä jäihin pudonneen ihmisen ”maalle” –siis alkoi vetää köydestä sellaisen nähdessään. Elokuvan Truman oli ostettu myös Troikas-kennelistä, mistä Kuuhaukkuun on tullut useita tuonteja.
+**Elokuva- ja TV-hahmoja** ovat mm. elokuvan Eight below (Seikkailu Etelänavalla) Max, Maya, Truman, Old Jack, Dewey ja Shorty (ilmestyi v. 2006). Ko. elokuvaan oli päärooliin ehdolla Troika´s Carbon Copy, suomalaisittain Hauva. 
+
+Hauvan ostivat Hollywoodiin eläinkouluttajat, ja siitä piti tulla pääosan esittäjä, mutta Hauva oli jo 6-vuotias ja ollut vain kotikennelissään Teksasissa. Sitä pelottivat kokemattomuuttaan valtavat turbiinit, jotka tekivät lumimyrskyn kaltaista säätä, ja kouluttajat palauttivat sen kotikenneliin. Sieltä se löysi tiensä Kuuhaukun kenneliin loppuelämän eläkekodiksi. Hauva oli oppinut jo kuitenkin muutamia asioita ollessaan Hollywoodissa ja oli hauska huomata, miten se esimerkiksi veti köydestä jäihin pudonneen ihmisen ”maalle” –siis alkoi vetää köydestä sellaisen nähdessään. Elokuvan Truman oli ostettu myös Troikas-kennelistä, mistä Kuuhaukkuun on tullut useita tuonteja.
 
 Disneyn Iron Will v. 1994 (Lumikenttien sankari) kertoo nuoren pojan valjakkokilpa-ajosta Alaskassa. Johtajakoirana oli valkoinen sinisilmäinen siperianhusky, mikä nostatti pentubuumin valkoisissa rodun edustajissa.
 
