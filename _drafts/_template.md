@@ -6,6 +6,9 @@ menu:
 image:
 layout: artikkeli
 
+iso-kuva: historia/historia2.jpg
+iso-kuva-sokeille: Title for the header image in above row, optional
+
 linkin-pikkukuva: square-125x125-image-name.jpg
 linkin-teksti: Description for the link
 

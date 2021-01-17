@@ -270,3 +270,38 @@ em {
   max-width: 80%;
 }
 
+blockquote{
+  display:block;
+  background: #fff;
+  padding: 45px 45px 35px 60px;
+  margin: 25px 0px;
+  position: relative;
+  font-size: small;
+  font-style: italic;
+
+  /*Font*/
+  color: #666;
+  text-align: justify;
+
+}
+
+blockquote::before{
+  content: "\201C"; /*Unicode for Left Double Quote*/
+
+  /*Font*/
+  font-size: 60px;
+  font-weight: bold;
+  color: #999;
+
+  /*Positioning*/
+  position: absolute;
+  left: 10px;
+  top: 10px;
+}
+
+blockquote::after{
+  /*Reset to make sure*/
+  content: "";
+}
+
+

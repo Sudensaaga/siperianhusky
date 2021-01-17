@@ -7,6 +7,9 @@ menu:
 image:
 layout: artikkeli
 
+iso-kuva: historia/historia2.jpg
+iso-kuva-sokeille: Kuvateksti ylläolevalle artikkelin pääkuvalle, kuva ei pakollinen
+
 linkin-pikkukuva: square-125x125-image-name.jpg
 linkin-teksti: näkyy linkin vieressä
 

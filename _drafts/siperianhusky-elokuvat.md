@@ -2,7 +2,7 @@
 
 permalink: siperianhusky-elokuvat
 title: Siperianhusky julkisuudessa
-description: Siperianhuskyt ovat tosielämän sankareita ja ne ovat esiintyneet useissa elokuvissa ja tv-sarjoissa
+description: Siperianhuskyt ovat tosielämän sankareita, mutta ne ovat myös esiintyneet useissa elokuvissa ja tv-sarjoissa
 menu: 
 
 image: 
@@ -10,10 +10,6 @@ layout: artikkeli
 
 linkin-pikkukuva: square-125x125-image-name.jpg
 linkin-teksti: näkyy linkin vieressä
-
-kolme-esiin-title: Otsikko joka näkyy jos artikkeli nostetaan näkyviin kolme-esiin osioon. 
-kolme-esiin-teksti: "Teksti kolme-esiin osioon. Voit poistaa nämä 3 riviä jos artikkelia ei esitellä."
-kolme-esiin-kuva: kuva-12:5-suhteessa-tai-240x100px.jpg
 
 ---
 
