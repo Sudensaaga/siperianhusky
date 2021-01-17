@@ -28,13 +28,19 @@ sivukuvat:
 
 ## Luonne ja tärkeimmät ominaisuudet lyhyesti
 
-[Lisää tietoa siperianhuskysta](siperianhusky-rotuinfo)
+### Millainen on siperianhuskyn terveys?
 
-## Millaiselle ihmiselle siperianhusky sopii?
+### Turkin hoito ja karvanlähtö 
+
+Lue [lisää tietoa siperianhuskysta](siperianhusky-rotuinfo).
+
+## Millaiselle ihmiselle siperianhusky sopii? 
+
+Tai toisin sanoen: **Millaiseksi siperianhusky tekee minut?**
 
 > Eläimet ovat täällä opettamassa meitä. Me emme valitse eläintä, eläin valitsee meidät. Saamme sellaisen oppaan kuin henkinen kasvumme tarvitsee. 
 >
-> (Muokkaa niinkuin alunperin sanoit ;)
+> (Muokkaa sellaiseksi kuin alunperin sanoit ;)
 
 
 
@@ -44,15 +50,13 @@ Eli: millaiset elinolosuhteet siperianhuskylle pitäisi järjestää?
 
 
 
-## Turkin hoito ja karvanlähtö 
-
-
-
 ## Voiko siperianhuskyn ottaa ensimmäiseksi koiraksi?
 
 ## Voinko ottaa siperianhuskyn, jos en elämäntilanteeni vuoksi voi hankkia kahta koiraa?
 
 ## Voiko siperianhuskya pitää kerrostalossa?
+
+## Pitääkö husky meteliä?
 
 ## Rikkooko siperianhusky huonekalut ja asuntoni?
 
@@ -60,19 +64,17 @@ Eli: millaiset elinolosuhteet siperianhuskylle pitäisi järjestää?
 
 ## Mitä siperianhuskyn kanssa voi harrastaa?
 
-## Pitääkö husky meteliä?
-
 ## Voiko siperianhuskya pitää vapaana?
+
+## Onko siperianhuskyllä metsästyviettiä/saalitusviettiä/riistaviettiä?
+
+Syökö se muut lemmikkini? Puput, hiiret, hamsterit.
 
 ## Mitä jos koira ei pääse vetämään? Voinko silti ottaa siperianhuskyn?
 
-## Mitä husky syö?
+## Mitä husky syö? Millaista hoitoa husky vaatii?
 
 ## Alaskanmalamuutti vai siperianhusky? Kuinka valitsen?
-
-## Onko jotain samantyyppisiä, mutta helpompia koirarotuja?
-
-Alaskan Klee Kai, pomsky, shiba inu? Suomenpystykorva? Inuiittikoira? Samojedi?
 
 ## Miten valitsen itselleni sopivan linjan? 
 
@@ -86,13 +88,15 @@ Mitä jalostuslinjat ovat? Miten valitsen itselleni sopivan linjan?
 
 Mitä eroja käytännössä (jos ei ole aiempaa koiraa)
 
-## Onko siperianhuskyllä metsästyviettiä/saalitusviettiä/riistaviettiä?
-
 ## Minkälaisia varusteita ja tarvikkeita siperianhusky tarvitsee?
 
 ## Mitä siperianhuskyn ylläpito maksaa?
 
-## Millainen on siperianhuskyn terveys?
+## Onko jotain samantyyppisiä, mutta helpompia koirarotuja?
+
+Alaskan Klee Kai, pomsky, shiba inu? Suomenpystykorva? Inuiittikoira? Samojedi? Missä asioissa eroavat?
+
+
 
 
 
