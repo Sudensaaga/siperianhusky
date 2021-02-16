@@ -42,9 +42,9 @@ kolme-esiin:
 
 Vuoden ensimmäinen old line® pentue on jo syntynyt! Kuuhaukun kennel on saattanut maailmaan jo yli 100 old line® pentuetta ja viimeisin syntyi 1.1.2021. 
 
-Poikkeuksellisesti yksi näistä pennuista on vielä vapaana. 
+Kaikki tämän pentueen pennut ovat varattuja. 
 
-Myös myöhemmistä vuoden 2021 old line huskypentueista on nyt mahdollista varata pentuja, tule tutustumaan aikuisiin koiriin Kuuhaukun kenneliin, niin kuulet lisää.  [Ota yhteyttä!](yhteystiedot)
+Myöhemmistä vuoden 2021 old line huskypentueista on nyt mahdollista varata pentuja. Tule tutustumaan aikuisiin koiriin Kuuhaukun kenneliin, niin kuulet lisää.  [Ota yhteyttä!](yhteystiedot)
 
 <a href="http://siperianhusky.net/" target="_blank" style="color:rgba(0,0,0,0);">siperianhusky</a>
 
