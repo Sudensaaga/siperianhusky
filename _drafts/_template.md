@@ -1,5 +1,6 @@
 ---
 permalink: article-url-here
+fi-permalink: finnish article url here, will create a canonical link for google
 title: Article Title Here
 description: max. 150 character description for search engines -IMPORTANT-
 menu: 
