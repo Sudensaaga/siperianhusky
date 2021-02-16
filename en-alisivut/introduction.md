@@ -1,6 +1,6 @@
 ---
 lang: en
-permalink: introduction
+permalink: en/introduction
 title: Kuuhaukun Kennel, Established 1979
 description: Kuuhaukun Kennel is Europe's oldest and the last Old Line kennel
 
