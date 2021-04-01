@@ -23,7 +23,6 @@ end
 # These gems are included to remove a security alarms - but we're not actively using them and
 # we're not using features like popups etc. that'd make us vulnerable.
 gem "nokogiri", ">= 1.11.0.rc4"
-gem "kramdown", ">= 2.3.0"
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
