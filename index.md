@@ -1,7 +1,6 @@
 ---
-
 permalink: /
-title: Siperianhuskyn pentuja 2021
+title: Siperianhuskyn pentuja 2022
 description: "Kuuhaukun kennel on säilyttänyt old line siperianhuskyn linjan puhtaana 40 vuotta eikä siinä ole kilpa-tai showlinjaa"
 
 menu: etusivu
@@ -22,7 +21,7 @@ dia-3-kuva: valjakko-vetaa.jpg
 dia-3-title: Arktiset rekikoirat
 dia-3-teksti: Oikeat arktisen rekikoiran käyttöominaisuudet ja ulkomuoto ovat 
   tärkeitä säilyttää  jalostuksessa. Käyttöominaisuuksia testataan säännöllisellä harjoittelulla.
-  
+
 dia-4-kuva: img3.jpg
 dia-4-title: Luonne ja terveys <br><small>ystävällinen ja lempeä</small>
 dia-4-teksti: Kasvatit ovat tunnettuja hyvästä luonteestaan. 
@@ -35,6 +34,14 @@ kolme-esiin:
     - "tsukotkan-rekikoira" 
 
 ---
+
+![Siperianhusky pennut 2022 pentueesta](images/siperianhusky-pennut-2022.jpg)
+
+Tässä tämän vuoden Kuuhaukun kullannuput, pentue joka syntyi heinäkuussa 2022. 
+Pentuja suunnitteilla puolen vuoden sisällä, [kysy lisää](yhteystiedot)
+
+## Aiempia pentueita
+
 
 ![Siperianhusky pennut 2020 pentueesta](images/siperianhusky-pennut-2020.png)
 
