@@ -38,7 +38,19 @@ kolme-esiin:
 ![Siperianhusky pennut 2022 pentueesta](images/siperianhusky-pennut-2022.jpg)
 
 Tässä tämän vuoden Kuuhaukun kullannuput, pentue joka syntyi heinäkuussa 2022. 
-Pentuja suunnitteilla puolen vuoden sisällä, [kysy lisää](yhteystiedot)
+Pentuja suunnitteilla puolen vuoden sisällä, [kysy lisää](yhteystiedot). 
+
+### Pentuja vapaana
+
+
+![Siperianhusky pennut 2022_Häkkilän_pentueesta](images/pentueet/pentue-10-8-2022-hakkila.png)
+ 
+Oldline- pentuja, s. 10.8., kolme urosta. Tsuktsi-husky - yhdistelmä. 
+Vain hyvään ja vastuuntuntoiseen kotiin, oldline- koirissa suljettu jalostus 
+
+Tied. Hannu Häkkilä p. 0407621396
+
+---
 
 ## Aiempia pentueita
 
@@ -51,7 +63,7 @@ Vuoden ensimmäinen old line® pentue on jo syntynyt! Kuuhaukun kennel on saatta
 
 Kaikki tämän pentueen pennut ovat varattuja. 
 
-Myöhemmistä vuoden 2021 old line huskypentueista on nyt mahdollista varata pentuja. Tule tutustumaan aikuisiin koiriin Kuuhaukun kenneliin, niin kuulet lisää.  [Ota yhteyttä!](yhteystiedot)
+Myöhemmistä vuoden 2021 old line huskypentueista on nyt mahdollista varata pentuja. Tule tutustumaan aikuisiin koiriin Kuuhaukun kenneliin, niin kuulet lisää.  
 
 <a href="http://siperianhusky.net/" target="_blank" style="color:rgba(0,0,0,0);">siperianhusky</a>
 
