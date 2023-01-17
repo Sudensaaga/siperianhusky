@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Siperianhuskyn pentuja 2022
+title: Siperianhuskyn pentuja 2023
 description: "Kuuhaukun kennel on säilyttänyt old line siperianhuskyn linjan puhtaana 40 vuotta eikä siinä ole kilpa-tai showlinjaa"
 
 menu: etusivu
@@ -35,29 +35,29 @@ kolme-esiin:
 
 ---
 
-![Siperianhusky pennut 2022 pentueesta](images/siperianhusky-pennut-2022.jpg)
-
-Tässä tämän vuoden Kuuhaukun kullannuput, pentue joka syntyi heinäkuussa 2022. 
-Pentuja suunnitteilla puolen vuoden sisällä, [kysy lisää](yhteystiedot). 
-
-### Pentuja vapaana
-
-
-![Siperianhusky pennut 2022_Häkkilän_pentueesta](images/pentueet/pentue-10-8-2022-hakkila.png)
  
-Oldline- pentuja, s. 10.8., kolme urosta. Tsuktsi-husky - yhdistelmä. 
-Vain hyvään ja vastuuntuntoiseen kotiin, oldline- koirissa suljettu jalostus 
+Pentuja suunnitteilla vuodelle 2023. 
 
-Tied. Hannu Häkkilä p. 0407621396
+Pentuja myydään vain varauksesta pentulistalla oleville, [kysy lisää](yhteystiedot). 
+
 
 ---
 
-## Aiempia pentueita
+## Vanhempia pentu-uutisia
+
+Alla aiempien vuosien pentu-uutisia. Katso myös [pentujen kuva-albumi](pennut).
 
 
-![Siperianhusky pennut 2020 pentueesta](images/siperianhusky-pennut-2020.png)
+### Kuuhaukun kullannuput 2022
 
-*Kuvassa lokakuun 2020 old line pentuja*
+![Siperianhusky pennut 2022 pentueesta](images/siperianhusky-pennut-2022.jpg)
+
+Tässä tämän vuoden Kuuhaukun kullannuput, pentue joka syntyi heinäkuussa 2022. 
+
+
+
+### Siperianhuskyn pennut 2021
+
 
 Vuoden ensimmäinen old line® pentue on jo syntynyt! Kuuhaukun kennel on saattanut maailmaan jo yli 100 old line® pentuetta ja viimeisin syntyi 1.1.2021. 
 
@@ -67,3 +67,10 @@ Myöhemmistä vuoden 2021 old line huskypentueista on nyt mahdollista varata pen
 
 <a href="http://siperianhusky.net/" target="_blank" style="color:rgba(0,0,0,0);">siperianhusky</a>
 
+
+
+### Old Line® Siperianhusky pentue vuodelta 2020
+
+![Siperianhusky pennut 2020 pentueesta](images/siperianhusky-pennut-2020.png)
+
+*Kuvassa lokakuun 2020 old line pentuja*
