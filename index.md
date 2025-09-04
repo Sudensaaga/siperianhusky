@@ -80,3 +80,7 @@ Myöhemmistä vuoden 2021 old line huskypentueista on nyt mahdollista varata pen
 ![Siperianhusky pennut 2020 pentueesta](images/siperianhusky-pennut-2020.png)
 
 *Kuvassa lokakuun 2020 old line pentuja*
+
+---
+
+![Sponsor logo Golden Eagle](images/logo-eagle.PNG)
