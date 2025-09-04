@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: Siperianhuskyn pentuja 2023
+title: Siperianhuskyn pentuja 2026
 description: "Kuuhaukun kennel on säilyttänyt old line siperianhuskyn linjan puhtaana 40 vuotta eikä siinä ole kilpa-tai showlinjaa"
 
 menu: etusivu
@@ -36,10 +36,11 @@ kolme-esiin:
 ---
 
  
-Pentuja suunnitteilla vuodelle 2023. 
+Pentuja suunnitteilla vuodelle 2026. 
 
 Pentuja myydään vain varauksesta pentulistalla oleville, [kysy lisää](yhteystiedot). 
 
+Tule tutustumaan aikuisiin koiriin Kuuhaukun kenneliin, niin kuulet lisää oldline® -siperianhuskyista ja niiden jalostuksesta sekä pentuesuunnitelmista.
 
 ---
 
