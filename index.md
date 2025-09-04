@@ -48,6 +48,11 @@ Tule tutustumaan aikuisiin koiriin Kuuhaukun kenneliin, niin kuulet lisää oldl
 
 Alla aiempien vuosien pentu-uutisia. Katso myös [pentujen kuva-albumi](pennut).
 
+### Siperianhuskyn pennut 2023
+
+![Siperianhusky pennut 2023 pentueesta](images/siperianhusky-pennut-2023.jpg)
+
+Suloiset oldline®-pennut, yksi punainen puuttuu kuvasta
 
 ### Kuuhaukun kullannuput 2022
 
